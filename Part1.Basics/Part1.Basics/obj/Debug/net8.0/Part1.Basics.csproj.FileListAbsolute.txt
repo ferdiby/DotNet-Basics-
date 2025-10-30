@@ -1,0 +1,14 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\bin\Debug\net8.0\Part1.Basics.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\bin\Debug\net8.0\Part1.Basics.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\bin\Debug\net8.0\Part1.Basics.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\bin\Debug\net8.0\Part1.Basics.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\bin\Debug\net8.0\Part1.Basics.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\refint\Part1.Basics.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\ref\Part1.Basics.dll
