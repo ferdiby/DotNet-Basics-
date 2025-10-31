@@ -31,9 +31,11 @@ internal class Program
         //Console.WriteLine(name2);
 
         // Unboxing
-        object name3 = "bayram";
-        string name4 = (string) name3;
-        Console.WriteLine(name4);
+        //object name3 = "bayram";
+        //string name4 = (string) name3;
+        //Console.WriteLine(name4);
+
+        // var keyword
 
 
     }
