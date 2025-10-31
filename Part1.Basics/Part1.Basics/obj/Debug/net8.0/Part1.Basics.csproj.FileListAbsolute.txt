@@ -12,3 +12,4 @@ C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8
 C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.pdb
 C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.genruntimeconfig.cache
 C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\ref\Part1.Basics.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C# 1\Part1.Basics\Part1.Basics\obj\Debug\net8.0\Part1.Basics.sourcelink.json
