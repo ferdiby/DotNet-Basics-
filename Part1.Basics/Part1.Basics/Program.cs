@@ -88,7 +88,25 @@ internal class Program
         //Console.WriteLine(default(bool)); //false
         //Console.WriteLine(default(Type)); //null
         //Type t = typeof(DateTime);
-        
+
+        #region try-catch example
+
+        //try
+        //{
+        //    Console.Write("1. değeri girin: ");
+        //    int num1 = int.Parse(Console.ReadLine());
+        //    Console.Write("2. değeri girin: ");
+        //    int num2 = int.Parse(Console.ReadLine());
+        //    Console.WriteLine("Toplam: "+(num1+num2));
+        //}
+        //catch 
+        //{
+        //    Console.WriteLine("Lütfen sayı girin..");
+        //}
+
+        #endregion
+
+
     }
 
 }

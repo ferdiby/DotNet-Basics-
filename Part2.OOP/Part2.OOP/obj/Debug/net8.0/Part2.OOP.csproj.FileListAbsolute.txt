@@ -1,0 +1,15 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\bin\Debug\net8.0\Part2.OOP.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\bin\Debug\net8.0\Part2.OOP.deps.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\bin\Debug\net8.0\Part2.OOP.runtimeconfig.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\bin\Debug\net8.0\Part2.OOP.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\bin\Debug\net8.0\Part2.OOP.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.AssemblyInfoInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.AssemblyInfo.cs
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.sourcelink.json
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\refint\Part2.OOP.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\Part2.OOP.genruntimeconfig.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.OOP\Part2.OOP\obj\Debug\net8.0\ref\Part2.OOP.dll
