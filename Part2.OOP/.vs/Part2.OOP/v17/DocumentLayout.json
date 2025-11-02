@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926FE9C9-0CA1-498E-AA88-DD237B107625}|Part2.OOP\\Part2.OOP.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\part2.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926FE9C9-0CA1-498E-AA88-DD237B107625}|Part2.OOP\\Part2.OOP.csproj|solutionrelative:part2.oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.OOP\\Part2.OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Part2.OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.OOP\\Part2.OOP\\Program.cs",
+              "RelativeToolTip": "Part2.OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T01:03:01.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
