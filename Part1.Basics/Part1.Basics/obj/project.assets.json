@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferdi\\OneDrive\\Masaüstü\\C#\\Part1.Basics\\Part1.Basics\\Part1.Basics.csproj",
-      "projectName": "Part1.Basics",
-      "projectPath": "C:\\Users\\ferdi\\OneDrive\\Masaüstü\\C#\\Part1.Basics\\Part1.Basics\\Part1.Basics.csproj",
+      "projectUniqueName": "C:\\Users\\ferdi\\OneDrive\\Masaüstü\\C#\\Part1.Basics\\Part1.Basics\\Basics.csproj",
+      "projectName": "Basics",
+      "projectPath": "C:\\Users\\ferdi\\OneDrive\\Masaüstü\\C#\\Part1.Basics\\Part1.Basics\\Basics.csproj",
       "packagesPath": "C:\\Users\\ferdi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ferdi\\OneDrive\\Masaüstü\\C#\\Part1.Basics\\Part1.Basics\\obj\\",
       "projectStyle": "PackageReference",
