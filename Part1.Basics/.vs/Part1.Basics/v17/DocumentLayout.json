@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8222E67B-0231-4132-B374-B0AAEE694039}|Strings\\Strings.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part1.basics\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8222E67B-0231-4132-B374-B0AAEE694039}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7E6441-8AE3-4DCD-AD9A-D71FD6E39A4B}|Part1.Basics\\Basics.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part1.basics\\part1.basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7E6441-8AE3-4DCD-AD9A-D71FD6E39A4B}|Part1.Basics\\Basics.csproj|solutionrelative:part1.basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "Strings\\Program.cs",
               "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part1.Basics\\Strings\\Program.cs",
               "RelativeToolTip": "Strings\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:42:13.923Z",
+              "WhenOpened": "2025-11-08T15:25:04.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part1.Basics\\Part1.Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Part1.Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part1.Basics\\Part1.Basics\\Program.cs",
+              "RelativeToolTip": "Part1.Basics\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:53:45.731Z",
               "EditorCaption": ""
             }
           ]
