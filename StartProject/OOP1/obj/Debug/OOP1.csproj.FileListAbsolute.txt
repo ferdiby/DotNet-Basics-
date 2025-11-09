@@ -1,0 +1,8 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\bin\Debug\OOP1.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\bin\Debug\OOP1.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\obj\Debug\OOP1.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\obj\Debug\OOP1.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\OOP1\obj\Debug\OOP1.exe.config

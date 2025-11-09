@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartProject", "StartProject\StartProject.csproj", "{2A4D2353-7590-457C-A725-E45DE8229EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{7E2E8C2A-1B56-475F-906E-66D19DD14391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2D0DC055-6D7A-45F8-8083-80578D4E2599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4D2353-7590-457C-A725-E45DE8229EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4D2353-7590-457C-A725-E45DE8229EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4D2353-7590-457C-A725-E45DE8229EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4D2353-7590-457C-A725-E45DE8229EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2E8C2A-1B56-475F-906E-66D19DD14391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2E8C2A-1B56-475F-906E-66D19DD14391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2E8C2A-1B56-475F-906E-66D19DD14391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2E8C2A-1B56-475F-906E-66D19DD14391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D0DC055-6D7A-45F8-8083-80578D4E2599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0DC055-6D7A-45F8-8083-80578D4E2599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0DC055-6D7A-45F8-8083-80578D4E2599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0DC055-6D7A-45F8-8083-80578D4E2599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22734B87-7C60-4CC7-B90E-8E236CB1AAED}
+	EndGlobalSection
+EndGlobal
