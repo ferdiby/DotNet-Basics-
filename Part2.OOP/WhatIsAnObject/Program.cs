@@ -10,7 +10,7 @@ namespace WhatIsAnObject
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
