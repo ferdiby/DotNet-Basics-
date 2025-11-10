@@ -1,12 +1,8 @@
-# .NET CORE WEB DEVELOPMENT
+# .NET CORE WEB DEVELOPMENT BOOTCAMP
 
 ## Explanation
 
 In this bootcamp, we first learned the fundamentals of C#. Then, we delved deeper into Object-Oriented Programming. At the end of the course, we created a final project representing the backend of an e-commerce application.
-
----
-
-Ferdi Bayram
 
 ## Project Content
 
@@ -38,3 +34,7 @@ Ferdi Bayram
 26. JWT, Identity ve Refresh Token
 27. API Documentation
 28. Bonus
+
+---
+
+Ferdi Bayram
