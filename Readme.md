@@ -12,7 +12,7 @@ In this bootcamp, we first learned the fundamentals of C#. Then, we delved deepe
 4. Working with models
 5. Postman
 6. Entity Framework Core
-7. Sql And Database Management
+7. Sql and Database Management
 
 ---
 
