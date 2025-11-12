@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\basvurumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\basvurumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\databaseloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\databaseloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\oop3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\oop3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,67 +58,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasvuruManager.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\BasvuruManager.cs",
-              "RelativeDocumentMoniker": "OOP3\\BasvuruManager.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\BasvuruManager.cs",
-              "RelativeToolTip": "OOP3\\BasvuruManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T04:01:02.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FileLoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\FileLoggerService.cs",
-              "RelativeDocumentMoniker": "OOP3\\FileLoggerService.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\FileLoggerService.cs",
-              "RelativeToolTip": "OOP3\\FileLoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:59:05.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DatabaseLoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\DatabaseLoggerService.cs",
-              "RelativeDocumentMoniker": "OOP3\\DatabaseLoggerService.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\DatabaseLoggerService.cs",
-              "RelativeToolTip": "OOP3\\DatabaseLoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:55:06.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ILoggerService.cs",
-              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\ILoggerService.cs",
-              "RelativeDocumentMoniker": "OOP3\\ILoggerService.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\ILoggerService.cs",
-              "RelativeToolTip": "OOP3\\ILoggerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T03:53:07.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\Program.cs",
               "RelativeDocumentMoniker": "OOP3\\Program.cs",
-              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\Program.cs",
-              "RelativeToolTip": "OOP3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\Program.cs*",
+              "RelativeToolTip": "OOP3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T02:13:56.531Z",
+              "WhenOpened": "2025-11-12T04:30:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP3",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\OOP3.csproj",
+              "RelativeDocumentMoniker": "OOP3\\OOP3.csproj",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\OOP3.csproj",
+              "RelativeToolTip": "OOP3\\OOP3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T04:30:49.299Z",
               "EditorCaption": ""
             }
           ]

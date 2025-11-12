@@ -2,7 +2,7 @@
 
 //// new IKrediManager(); //interfaces can not make an object!!
 IKrediService kM = new IhtiyacKrediManager();
-//IKrediService kM2 = new TasitKrediManager();
+IKrediService kM2 = new TasitKrediManager();
 ////kM.Hesapla();
 //Console.WriteLine("--------------------------------");
 //new BasvuruManager().BasvuruYap(kM2);
@@ -11,6 +11,8 @@ ILoggerService fileLoggerService = new FileLoggerService();
 ILoggerService dbLoggerService = new DatabaseLoggerService();
 List<ILoggerService> loggerList = new List<ILoggerService>() { fileLoggerService, dbLoggerService };
 basvuruManager.BasvuruYap(kM, loggerList);
+Console.WriteLine("--------------------------------");
+new BasvuruManager().BasvuruYap(kM2,new List<ILoggerService>(){dbLoggerService,fileLoggerService});
 
 //Console.WriteLine("--------------------------------");
 //kM.KrediPuan = 12;
