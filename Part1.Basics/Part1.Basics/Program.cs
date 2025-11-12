@@ -5,6 +5,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        // WORK HAS DONE
+
         #region Variables
         //Console.WriteLine(typeof(string));
         //Console.WriteLine(typeof(int));
