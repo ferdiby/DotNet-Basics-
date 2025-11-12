@@ -6,3 +6,11 @@ C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\StartProject\obj\Debug\StartP
 C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\StartProject\obj\Debug\StartProject.exe
 C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\StartProject\obj\Debug\StartProject.pdb
 C:\Users\ferdi\OneDrive\Masaüstü\C#\StartProject\StartProject\obj\Debug\StartProject.exe.config
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\bin\Debug\StartProject.exe.config
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\bin\Debug\StartProject.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\bin\Debug\StartProject.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\obj\Debug\StartProject.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\obj\Debug\StartProject.exe.config
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\obj\Debug\StartProject.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\obj\Debug\StartProject.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Part2.Oop\StartProject\obj\Debug\StartProject.pdb
