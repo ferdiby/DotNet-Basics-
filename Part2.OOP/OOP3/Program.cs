@@ -20,3 +20,5 @@ new BasvuruManager().BasvuruYap(kM2,new List<ILoggerService>(){dbLoggerService,f
 //List<IKrediService> krediler = new List<IKrediService>(){kM,kM2};
 //basvuruManager.KrediBilgilendirme(krediler);
 
+
+// That's it for OOP :)
