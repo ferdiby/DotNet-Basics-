@@ -24,5 +24,7 @@ namespace OOP3
         {
             Console.WriteLine($"{this.Name} kredisi alınabilir");
         }
+
+        
     }
 }

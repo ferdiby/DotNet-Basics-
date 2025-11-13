@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\tasitkredimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\tasitkredimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|c:\\users\\ferdi\\onedrive\\masa\u00FCst\u00FC\\c#\\part2.oop\\oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0AEC60D-5BE6-468B-B688-2F347A245290}|OOP3\\OOP3.csproj|solutionrelative:oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,28 +63,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TasitKrediManager.cs",
+              "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\TasitKrediManager.cs",
+              "RelativeDocumentMoniker": "OOP3\\TasitKrediManager.cs",
+              "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\TasitKrediManager.cs",
+              "RelativeToolTip": "OOP3\\TasitKrediManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:52:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\Program.cs",
               "RelativeDocumentMoniker": "OOP3\\Program.cs",
               "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\Program.cs",
               "RelativeToolTip": "OOP3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T04:30:53.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OOP3",
+              "DocumentIndex": 2,
+              "Title": "OOP3.csproj",
               "DocumentMoniker": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\OOP3.csproj",
               "RelativeDocumentMoniker": "OOP3\\OOP3.csproj",
               "ToolTip": "C:\\Users\\ferdi\\OneDrive\\Masa\u00FCst\u00FC\\C#\\Part2.Oop\\OOP3\\OOP3.csproj",
               "RelativeToolTip": "OOP3\\OOP3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-12T04:30:49.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T04:30:49.299Z"
             }
           ]
         },
