@@ -2,13 +2,15 @@
 
 ## Explanation
 
-In this bootcamp, we first learned the fundamentals of C#. Then, we delved deeper into Object-Oriented Programming. At the end of the course, we created a final project representing the backend of an e-commerce application.
+In this bootcamp, we first learned the fundamentals of C#. Then, we delved deeper into Object-Oriented Programming. At the end of the course, we worked on MVC Pattern on .Net Core 5
 
-## Project Content
+## Bootcamp Content
 
-1. API, HTTP, REST, RESTful
-2. ASP.NET Core
-3. SQL (MsSql)
+1. C# Basics
+2. Object Oriented Programming paradigm and its approaches
+3. How internet works (ClientSide and ServerSide Technologies)
+4. Asp .Net Core Web Programming
+5. MVC Pattern on Web Development
 
 ---
 
