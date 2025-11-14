@@ -6,7 +6,7 @@ In this bootcamp, we first learned the fundamentals of C#. Then, we delved deepe
 
 ## Bootcamp Content
 
-1. C# Basics
+1. C# Basics (Data Types,Methods etc)
 2. Object Oriented Programming paradigm and its approaches
 3. How internet works (ClientSide and ServerSide Technologies)
 4. Asp .Net Core Web Programming
