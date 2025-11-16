@@ -1,0 +1,7 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\EntityLayer\bin\Debug\EntityLayer.dll.config

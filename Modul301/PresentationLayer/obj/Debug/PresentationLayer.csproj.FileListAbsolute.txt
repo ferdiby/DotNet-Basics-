@@ -1,0 +1,11 @@
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\PresentationLayer\obj\Debug\PresentationLayer.exe.config
