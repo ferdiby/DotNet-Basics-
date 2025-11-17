@@ -13,3 +13,5 @@ C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\obj\Debug\DataAcc
 C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
 C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\ferdi\OneDrive\Masaüstü\C#\Modul301\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
