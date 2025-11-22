@@ -21,4 +21,4 @@ new BasvuruManager().BasvuruYap(kM2,new List<ILoggerService>(){dbLoggerService,f
 //basvuruManager.KrediBilgilendirme(krediler);
 
 
-// That's it for OOP :)
+// That's it for OOProgramming :)
