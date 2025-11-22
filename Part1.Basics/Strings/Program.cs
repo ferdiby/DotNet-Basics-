@@ -45,8 +45,9 @@ internal class Program
         Console.WriteLine(ferdilist.IndexOf("nere"));
 
 
-
         #endregion
+
+        // Completed
 
     }
 }

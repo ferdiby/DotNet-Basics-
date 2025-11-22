@@ -14,6 +14,7 @@ namespace EFProject
         [STAThread]
         static void Main()
         {
+            //comp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
