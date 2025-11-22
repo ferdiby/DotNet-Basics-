@@ -14,4 +14,4 @@ In this bootcamp, we first learned the fundamentals of C#. Then, we delved deepe
 
 ---
 
-My_Website is the final project for these bootcamp => (https://github.com/ferdiby/My_Website)
+My_Website is the final project for this bootcamp => (https://github.com/ferdiby/My_Website)
